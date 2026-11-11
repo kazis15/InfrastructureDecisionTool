@@ -11,7 +11,7 @@ HOW TO RUN THE PROGRAM
 1. Open the project folder in VS Code.
 2. Open the terminal.
 3. Install the required package by entering: npm install
-4. Run the program by entering: node infrastructure.js
+4. Run the program by entering: node info300.js
 5. Choose an option from the main menu.
 
 TOOL 1: SUBNET HOST CHECKER
